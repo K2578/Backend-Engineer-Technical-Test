@@ -32,8 +32,3 @@ To run the unit tests, use:
 php artisan test
 
 Ensure PHPUnit or Pest is properly configured in the project.
-
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
